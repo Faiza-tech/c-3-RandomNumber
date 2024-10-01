@@ -1,0 +1,15 @@
+C:\Users\Faiza\Documents\allDotnet\randomNumber\bin\Debug\net8.0\randomNumber.exe
+C:\Users\Faiza\Documents\allDotnet\randomNumber\bin\Debug\net8.0\randomNumber.deps.json
+C:\Users\Faiza\Documents\allDotnet\randomNumber\bin\Debug\net8.0\randomNumber.runtimeconfig.json
+C:\Users\Faiza\Documents\allDotnet\randomNumber\bin\Debug\net8.0\randomNumber.dll
+C:\Users\Faiza\Documents\allDotnet\randomNumber\bin\Debug\net8.0\randomNumber.pdb
+C:\Users\Faiza\Documents\allDotnet\randomNumber\obj\Debug\net8.0\randomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\Documents\allDotnet\randomNumber\obj\Debug\net8.0\randomNumber.AssemblyInfoInputs.cache
+C:\Users\Faiza\Documents\allDotnet\randomNumber\obj\Debug\net8.0\randomNumber.AssemblyInfo.cs
+C:\Users\Faiza\Documents\allDotnet\randomNumber\obj\Debug\net8.0\randomNumber.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\Documents\allDotnet\randomNumber\obj\Debug\net8.0\randomNumber.sourcelink.json
+C:\Users\Faiza\Documents\allDotnet\randomNumber\obj\Debug\net8.0\randomNumber.dll
+C:\Users\Faiza\Documents\allDotnet\randomNumber\obj\Debug\net8.0\refint\randomNumber.dll
+C:\Users\Faiza\Documents\allDotnet\randomNumber\obj\Debug\net8.0\randomNumber.pdb
+C:\Users\Faiza\Documents\allDotnet\randomNumber\obj\Debug\net8.0\randomNumber.genruntimeconfig.cache
+C:\Users\Faiza\Documents\allDotnet\randomNumber\obj\Debug\net8.0\ref\randomNumber.dll
